@@ -2,7 +2,6 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  /* width: 90rem; */
   padding: 9.5rem 0rem 9.4375rem 0rem;
   background-color: hsl(212, 45%, 89%);
 }
@@ -33,7 +32,6 @@ section img {
 }
 
 .text {
-  /* height: 8.0625rem; */
   display: flex;
   flex-direction: column;
   justify-content: center;
